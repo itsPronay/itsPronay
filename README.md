@@ -2,9 +2,9 @@
 
 
 
-# Hey , This is Pronay Sarker <a href="https://www.buymeacoffee.com/itsPronay"> <img align="right" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="itsPronay" /></a>
+# Hey , This is Pronay Sarker 
 1st year CS undergrad student.
-- Email: **pronaycoding@gmail.com** 
+- Email: **pronaycoding@gmail.com** <a href="https://www.buymeacoffee.com/itsPronay"> <img align="right" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="itsPronay" /></a>
 
 
 
