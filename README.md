@@ -2,7 +2,7 @@
 
 
 
-# Hey , This is Pronay Sarker  
+# Hey , This is Pronay 
 1st year CS undergrad student @SEU  
 - Email: **pronaycoding@gmail.com**
 
