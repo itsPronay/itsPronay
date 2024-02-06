@@ -3,9 +3,9 @@
 
 
 # Hey , This is Pronay Sarker 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=itspronay&label=Profile%20views&color=0e75b6&style=flat" alt="itspronay" /></p>
+1st year CS undergrad student @SEU <p align="right"> <img src="https://komarev.com/ghpvc/?username=itspronay&label=Profile%20views&color=0e75b6&style=flat" alt="itspronay" /></p>
 
-1st year CS undergrad student @SEU
+
 - Email: **pronaycoding@gmail.com**
 
 
