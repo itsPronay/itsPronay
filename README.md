@@ -22,13 +22,13 @@
 
 
 </p>
-<br>
+<br><br>
 <br>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=itspronay&show_icons=true&locale=en&layout=compact" alt="itspronay" /></p>
 
-&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itspronay&show_icons=true&locale=en" alt="itspronay" />
+&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=itspronay&show_icons=true&locale=en" alt="itspronay" />
 <p></p>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itspronay&" alt="itspronay" />
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=itspronay&" alt="itspronay" />
 <p></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itspronay&label=Profile%20views&color=0e75b6&style=flat" alt="itspronay" /> </p>
 
