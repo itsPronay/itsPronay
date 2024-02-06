@@ -7,7 +7,7 @@
 - Email: **pronaycoding@gmail.com** 
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Links:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/pronay-sarker-4a4273226/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pronay-sarker-4a4273226/" height="30" width="40" /></a>
 <a href="https://instagram.com/itspronay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itspronay" height="30" width="40" /></a>
@@ -20,14 +20,6 @@
 <a href="https://www.buymeacoffee.com/itsPronay"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="itsPronay" /></a>
 
 
-</p>
-<br><br>
-<br>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=itspronay&show_icons=true&locale=en&layout=compact" alt="itspronay" /></p>
-
-<p></p>
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=itspronay&" alt="itspronay" />
-<p></p>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=itspronay&label=Profile%20views&color=0e75b6&style=flat" alt="itspronay" /> </p>
 
 
