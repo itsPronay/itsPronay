@@ -3,6 +3,7 @@
 
 
 # Hey , This is Pronay Sarker 
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=itspronay&label=Profile%20views&color=0e75b6&style=flat" alt="itspronay" /> </p>
 1st year CS undergrad student.
 - Email: **pronaycoding@gmail.com** 
 
@@ -20,7 +21,6 @@
 <a href="https://www.buymeacoffee.com/itsPronay"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="itsPronay" /></a>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=itspronay&label=Profile%20views&color=0e75b6&style=flat" alt="itspronay" /> </p>
 
 
 
