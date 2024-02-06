@@ -1,5 +1,8 @@
 
 
+
+<h1 align="center">Hey , This is Pronay Sarker</h1>
+<h3 align="center">A 1st year Computer science and Engineering student</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itspronay&label=Profile%20views&color=0e75b6&style=flat" alt="itspronay" /> </p>
 
 - Email: **pronaycoding@gmail.com**
@@ -19,4 +22,10 @@
 <p><a href="https://www.buymeacoffee.com/itsPronay"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="itsPronay" /></a></p><br><br>
 <p></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=itspronay&show_icons=true&locale=en&layout=compact" alt="itspronay" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itspronay&" alt="itspronay" /></p>
+
+
+
+
 
