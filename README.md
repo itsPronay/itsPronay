@@ -9,10 +9,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/pronay-sarker-4a4273226/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pronay-sarker-4a4273226/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/pronay-sarker-4a4273226/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pronay-sarker-4a4273226/" height="30" width="40" /></a>
 <a href="https://instagram.com/itspronay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itspronay" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/https://codeforces.com/profile/pronay_sarker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/pronay_sarker" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/pronaycoding/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/pronaycoding/" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/pronay_sarker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/pronay_sarker" height="30" width="40" /></a>
+<a href="https://leetcode.com/pronaycoding/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/pronaycoding/" height="30" width="40" /></a>
 </p>
 <p></p>
 <h3 align="left">Languages and Tools:</h3>
