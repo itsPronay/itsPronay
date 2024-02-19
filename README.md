@@ -6,7 +6,7 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=itspronay&show_icons=true&locale=en&layout=compact" alt="itspronay" /></p>
+
 
 <p></p>
 <h3 align="left">Links: </h3>
@@ -23,6 +23,8 @@
 <p>
 <a href="https://www.buymeacoffee.com/itsPronay"> <img align="right" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="itsPronay" /></a>
 <br><br> <p align="right"> <img src="https://komarev.com/ghpvc/?username=itspronay&label=Profile%20views&color=0e75b6&style=flat" alt="itspronay" /> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=itspronay&show_icons=true&locale=en&layout=compact" alt="itspronay" /></p>
 
 
 
