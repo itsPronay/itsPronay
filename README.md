@@ -2,9 +2,6 @@
 
 
 
-- Email: **pronaycoding@gmail.com**
-
-
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=itspronay&show_icons=true&locale=en&layout=compact" alt="itspronay" /></p>
