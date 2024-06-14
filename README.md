@@ -4,8 +4,8 @@
   
 ### About me
 - 🎓 I am a first-year student pursuing a Bachelor's degree in Computer Science 
-- 🌱 I’m currently learning Android development & Machine Learning    
-- 📫 How to reach me *pronaycoding@gmail.com*
+- 🌱 I’m currently learning Android development & goooooooooooooooooooooooooooooolang   :)
+- 📫 How to reach me *pronaycoding@gmail.com* 
   
 
 <br/>  
