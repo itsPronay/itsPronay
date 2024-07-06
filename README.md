@@ -3,10 +3,11 @@
 # Hi, I am Pronay Sarker
   
 ### About me
-- 🎓 I am a first-year student pursuing a Bachelor's degree in Computer Science 
-- 🌱 I’m currently learning Android development & goooooooooooooooooooooooooooooolang   :)
-- 📫 How to reach me *pronaycoding@gmail.com* 
-  
+- 🎓 I am a 2nd year student pursuing a Bachelor's degree in Computer Science (2027)
+- 💡 I am mainly interested in Android development, backend using Go and AIML
+- 🌱 I am currently learning Golang
+- 📫 How to reach me: pronaycoding@gmail.com
+
 
 <br/>  
 
