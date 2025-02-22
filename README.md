@@ -1,15 +1,15 @@
-
-<h1 align="center">Hey there, I'm <a href="https://www.linkedin.com/in/itspronay/">Pronay</a>! 👋</h1>
+# Hey there, I'm [Pronay](https://www.linkedin.com/in/itspronay/)! 👋
 
 ### 👨‍💻 About Me
-I'm a **second-year Computer Science student**, set to graduate in **July 2027**. Passionate about tech, I'm diving deep into **Android Development** and exploring **Machine Learning** and **Golang**.
+I’m a **second-year Computer Science student**, aiming to graduate in **July 2027**. I’m passionate about technology and currently focused on **Android Development**, **Spring Boot**, and exploring **Machine Learning**.
 
-### 💡 What I'm Into
-- **Android Dev**: Specializing in Kotlin with a knack for sleek, modern designs.
-- **Backend & Machine Learning**: Learning Golang and ML.
+I am an active contributor to the **Mifos Initiative**, where I work on improving Android apps, refactoring legacy code, and implementing modern solutions. I love contributing to **open-source projects** and believe in the power of collaboration to drive innovation.
 
-<div align="center">
-  <a href="http://www.linkedin.com/in/itsPronay/"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209"/></a>
-  <a href="mailto:pronaycoding@gmail.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" /></a>
-  <a href="https://twitter.com/itsPronay"><img src="https://img.shields.io/badge/Twitter-d5d5d5?style=for-the-badge&logo=twitter&logoColor=0A0209" alt="AzfarAlam22" ></a>
-</div>
+🤝 **I’m excited to collaborate on**:
+- Android Applications
+- Kotlin Multiplatform Mobile (KMP) 
+- Backend Projects
+
+### 📬 Connect with Me
+- LinkedIn: [https://www.linkedin.com/in/itspronay/](https://www.linkedin.com/in/itspronay/)
+- Email: [pronaycoding@gmail.com](mailto:pronaycoding@gmail.com)
